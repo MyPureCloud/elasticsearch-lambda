@@ -16,7 +16,7 @@
 		<mockito.version>1.9.5</mockito.version>
 		<analytics.core.version>0.1.93-SNAPSHOT</analytics.core.version>
 		<hadoop.core.version>2.2.0</hadoop.core.version>
-		<apache.commons-io.version>2.4</apache.commons-io.version>
+		<apache.commons-io.version>2.7</apache.commons-io.version>
 		<apache.commons-lang.version>2.5</apache.commons-lang.version>
 		<commons.codec.version>1.4</commons.codec.version>
 		<curator.version>2.4.0</curator.version>
